@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# NAME : SAI LIKITHA
+# REGISTERED NUMBER : 212224230046
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
@@ -40,7 +42,9 @@ while True:
     s.send("acknowledgement recived from the server".encode())
 ```
 ## OUPUT
-![alt text](<image 1.png>)
-![alt text](<Image 2.png>)
+![server](https://github.com/user-attachments/assets/92a007ef-e91a-4992-9d26-952b3473c0a8)
+![client](https://github.com/user-attachments/assets/4fb9d0fc-5182-4bc3-842a-2aa86ac8e714)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
+
